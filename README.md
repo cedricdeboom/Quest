@@ -1,5 +1,5 @@
 # Quest
-Quest is an interactive platform to submit code snippets from students to teacher in class. It is a web application based on node.js.
+Quest is an interactive platform to submit code snippets from students to teacher in class. It is a web application based on node.js, socket.io and bootstrap.
 
 Install the dependencies through
 ```
