@@ -1,0 +1,27 @@
+body {
+  padding-top: 50px;
+  margin-bottom: 60px;
+}
+
+.central-header {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+/* FOOTER */
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+}
+/* ------- */
+
+.hidden {
+	display: none;
+}
+
+#code {
+  font-size: 14pt;
+}
